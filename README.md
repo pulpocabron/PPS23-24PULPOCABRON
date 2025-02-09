@@ -1,3 +1,17 @@
+2025/09/02 arreglo del login para que sea case sensitive, archivo modificado: loginController.js
+
+
+
+
+
+
+
+
+
+
+
+
+
 1º En primer lugar necesitamos la base de datos
 #############################################################
 Se encuentra el script de la BD en el proyecto
